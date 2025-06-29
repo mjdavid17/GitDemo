@@ -26,5 +26,11 @@ public class Day1 {
 		System.out.println("execute me last");
 	}
 	
+	
+	public void gitSample() {
+		
+		System.out.println("Hello GIT world");
+	}
+	
 
 }
