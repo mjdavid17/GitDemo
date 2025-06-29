@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="6" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-17T00:40:35 PST" name="Suite" finished-at="2025-06-17T00:40:35 PST" duration-ms="87">
+    <groups>
+      <group name="Smoke">
+        <method signature="Day1.demo()[pri:0, instance:TestNG.Day1@3232a28a]" name="demo" class="TestNG.Day1"/>
+        <method signature="Day3.alpha1()[pri:0, instance:TestNG.Day3@71a8adcf]" name="alpha1" class="TestNG.Day3"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2025-06-17T00:40:35 PST" name="Personal Loan" finished-at="2025-06-17T00:40:35 PST" duration-ms="42">
+      <class name="TestNG.Day1">
+        <test-method signature="demo()[pri:0, instance:TestNG.Day1@3232a28a]" started-at="2025-06-17T00:40:35 PST" name="demo" finished-at="2025-06-17T00:40:35 PST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- TestNG.Day1 -->
+    </test> <!-- Personal Loan -->
+    <test started-at="2025-06-17T00:40:35 PST" name="Common Loan" finished-at="2025-06-17T00:40:35 PST" duration-ms="5">
+      <class name="TestNG.Day3">
+        <test-method signature="alpha1()[pri:0, instance:TestNG.Day3@71a8adcf]" started-at="2025-06-17T00:40:35 PST" name="alpha1" finished-at="2025-06-17T00:40:35 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alpha1 -->
+        <test-method signature="alpha2()[pri:0, instance:TestNG.Day3@71a8adcf]" started-at="2025-06-17T00:40:35 PST" name="alpha2" finished-at="2025-06-17T00:40:35 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alpha2 -->
+      </class> <!-- TestNG.Day3 -->
+    </test> <!-- Common Loan -->
+  </suite> <!-- Suite -->
+</testng-results>
