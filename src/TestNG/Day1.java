@@ -32,5 +32,10 @@ public class Day1 {
 		System.out.println("Hello GIT world");
 	}
 	
+	
+	public void gitBranch() {
+		
+		System.out.println("Hello GIT world");
+	}
 
 }
